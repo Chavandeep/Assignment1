@@ -4,7 +4,7 @@
 This is a fully responsive product landing page for a MagSafe compatible wallet with integrated stand functionality, designed with an e-commerce/product placement style similar to Flipkart.
 
 
-## Demo Video
+## Demo Video - Untitled design (1).mp4
 
 
 ## Project Structure
