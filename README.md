@@ -5,6 +5,7 @@ This is a fully responsive product landing page for a MagSafe compatible wallet 
 
 
 ## Demo Video - Untitled design (1).mp4
+https://github.com/Chavandeep/Assignment1/blob/main/Untitled%20design%20(1).mp4
 
 
 ## Project Structure
