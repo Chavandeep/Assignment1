@@ -2,7 +2,7 @@
 /* Base Styles */
 :root {
     --primary-color: #1A1F2C;
-    --accent-color: #0EA5E9;
+    --accent-color: #ff0000;
     --light-gray: #F6F6F7;
     --medium-gray: #8A898C;
     --dark-gray: #403E43;
@@ -96,7 +96,7 @@ section {
 }
 
 .btn:hover {
-    background-color: #0c8bca;
+    background-color: #fe1b1b;
     transform: translateY(-2px);
     box-shadow: var(--shadow);
 }
